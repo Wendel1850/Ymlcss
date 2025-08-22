@@ -1,1 +1,10 @@
 # Ymlcss
+/* style.css */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f2f2f2;
+}
+
+h1 {
+  color: #00698f;
+}
